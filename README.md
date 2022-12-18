@@ -77,18 +77,6 @@ BS Physics, SUNY Brockport
 </div>
 
 <h4>
-  :writing_hand: Coding Projects: (Currently working on loading projects into Github)
-</h4>
-<a href="Wait for this" title="Python Projects">
-  Python Projects
-</a>
-<br>
-<a href="Wait for this" title="Cpp Projects">
-  C++ Projects 
-</a>
-
-
-<h4>
   :page_with_curl: Certificates:
 </h4>
 Google Data Analytics | Google
