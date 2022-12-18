@@ -1,16 +1,94 @@
-### Hi there 👋
+<div id="title", align="center">
+  <h1>
+    Edward Ryan's Portfolio
+  </h1>
+</div>
 
-<!--
-**Ed-Ryan/Ed-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="Hello", align="center">
+  <h2>
+    Hello there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h2>
+</div>
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges", align = "center">
+  <a href="https://www.linkedin.com/in/edward-ryan-782015173/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="Viewer Count", align = "center">
+  <img src="https://komarev.com/ghpvc/?username=Ed-Ryan&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+<div id="About" align="Center">
+  <h3>
+    About me:
+  </h3>
+</div>
+
+<h4>
+  <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="20"> Education:
+</h4>
+
+MSc Physics, University of Surrey
+
+BS Physics, SUNY Brockport
+<ul>
+  <li> Minor in Mathematics | Minor in Computer Science </li>
+</ul>
+
+<h4>
+  :hammer_and_wrench: Programming Languages, Tools, and OS Knowledge:
+<h4>
+<div>
+  <h5>
+    Programming Languages:
+  </h5>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://2.bp.blogspot.com/-DrHDBZWMWC0/WyLLvXElCpI/AAAAAAAAACg/BpyMuVGLcaQJ3ur3HgsVqcgZ_di2-Qb1QCLcBGAs/s1600/c-plus-plus-logo.png" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <h5>
+    Tools:
+  </h5>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="LabVIEW" alt="LabVIEW" width="40" height="40"/>&nbsp;
+  <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://cozan.co.za/img/logo_sheets.png" title="Sheets" alt="Sheets" width="40" height="40"/>&nbsp;
+  <h5>
+    OS Knowledge:
+  </h5>
+  <img src="https://th.bing.com/th/id/R.16e2bd364bc15a7bb79396072c0231eb?rik=nWsys6VOno0CgQ&pid=ImgRaw&r=0" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.aU5xDB-BKdhzsKlmlhckwAHaHa?pid=ImgDet&rs=1" alt="Chrome" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.iHe4-LaJdORtOPopYmaMWgHaHa?pid=ImgDet&rs=1" alt="Mac" width="40" height="40"/>&nbsp;
+</div>
+
+<h4>
+  :writing_hand: Coding Projects: (Currently working on loading projects into Github)
+</h4>
+<a href="Wait for this" title="Python Projects">
+  Python Projects
+</a>
+<br>
+<a href="Wait for this" title="Cpp Projects">
+  C++ Projects 
+</a>
+
+
+<h4>
+  :page_with_curl: Certificates:
+</h4>
+Google Data Analytics | Google
