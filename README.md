@@ -74,8 +74,25 @@ BS Physics, SUNY Brockport
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/OIP.aU5xDB-BKdhzsKlmlhckwAHaHa?pid=ImgDet&rs=1" alt="Chrome" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/OIP.iHe4-LaJdORtOPopYmaMWgHaHa?pid=ImgDet&rs=1" alt="Mac" width="40" height="40"/>&nbsp;
+  <h5>
+    Projects:
+  </h5>
+  <h4>
+    Only HTML Bases Projects:
+  </h4>
+  <ul>
+    <li><a<li><a href="https://github.com/Ed-Ryan/HTML_Projects/tree/main/HTML_Source_Codes/Brown_Bear">Brown Bear</a></li>
+    <li><a href="https://github.com/Ed-Ryan/HTML_Projects/blob/main/HTML_Source_Codes/Questionaire/Questionaire_HTML.html">Questionaire</a></li>
+  </ul>
+  <h4>
+    HTML and CSS Projects:
+  </h4>
+  <ul>
+    <li><a href="https://github.com/Ed-Ryan/HTML_CSS_Projects/tree/main/HTLM_CSS_Source_Code/Brown_Bear">Brown Bear</li>
+    <li><a href="https://github.com/Ed-Ryan/HTML_CSS_Projects/tree/main/HTLM_CSS_Source_Code/Questionaire">Questionaire</li>
+  </ul>
 </div>
-
+  
 <h4>
   :page_with_curl: Certificates:
 </h4>
