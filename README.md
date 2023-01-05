@@ -82,7 +82,7 @@ BS Physics, SUNY Brockport
   </h4>
   <ul>
     <li><a<li><a href="https://github.com/Ed-Ryan/HTML_Projects/tree/main/HTML_Source_Codes/Brown_Bear">Brown Bear</a></li>
-    <li><a href="https://github.com/Ed-Ryan/HTML_Projects/blob/main/HTML_Source_Codes/Questionaire/Questionaire_HTML.html">Questionaire</a></li>
+    <li><a href="https://github.com/Ed-Ryan/HTML_Projects/blob/main/HTML_Source_Codes/Questionaire">Questionaire</a></li>
   </ul>
   <h4>
     HTML and CSS Projects:
@@ -90,6 +90,12 @@ BS Physics, SUNY Brockport
   <ul>
     <li><a href="https://github.com/Ed-Ryan/HTML_CSS_Projects/tree/main/HTLM_CSS_Source_Code/Brown_Bear">Brown Bear</li>
     <li><a href="https://github.com/Ed-Ryan/HTML_CSS_Projects/tree/main/HTLM_CSS_Source_Code/Questionaire">Questionaire</li>
+  </ul>
+  C++ Projects:
+  </h4>
+  <ul>
+    <li><a href="https://github.com/Ed-Ryan/Cpp_Projects/tree/main/Login_System_Cpp">Login System</li>
+    <li><a href="https://github.com/Ed-Ryan/Cpp_Projects/tree/main/Magic_Square">Magic Square</li>
   </ul>
 </div>
   
