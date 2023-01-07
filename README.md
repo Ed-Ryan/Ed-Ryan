@@ -103,6 +103,7 @@ BS Physics, SUNY Brockport
   </h4>
   <ul>
     <li><a href="https://github.com/Ed-Ryan/Python_Projects/tree/main/Magic_Square">Magic Square</li>
+    <li><a href="https://github.com/Ed-Ryan/Python_Projects/tree/main/Questionaire_Python">Questionaire</li>
   </ul>
 </div>
   
